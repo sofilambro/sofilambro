@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Mathematical and Computational Science for Artificial Intelligence student at Bocconi University
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence applications
-- 👯 I’m looking to collaborate on cool projects involving also physics studies
+- 👯 I’m looking to collaborate on cool projects involving adversarial machine learning and physics studies
 - 💬 Ask me about anything!
 - 📫 How to reach me: sofialambro2004@gmail.com
 - 😄 Pronouns: she/her
