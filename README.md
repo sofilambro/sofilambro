@@ -1,6 +1,6 @@
 ## Hi I'm Sofia! 👋
 
-- 🔭 I’m a Mathematical and Computational Science for Artificial Intelligence student at Bocconi University
+- 🔭 I'm a Mathematical, Computational and Information Sciences for Artificial Intelligence student.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence applications
 - 👯 I’m looking to collaborate on cool projects involving adversarial machine learning and physics studies
 - 💬 Ask me about anything!
