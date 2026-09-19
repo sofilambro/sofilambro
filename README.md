@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence applications
 - 👯 I’m looking to collaborate on cool projects involving adversarial machine learning and physics studies
 - 💬 Ask me about anything!
-- 📫 How to reach me: sofialambro2004@gmail.com
+- 📫 How to reach me: sofia.lambro@gmail.com
 - 😄 Pronouns: she/her
 
 --> 
